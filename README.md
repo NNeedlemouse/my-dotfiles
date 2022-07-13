@@ -3,4 +3,7 @@ Added Qtile to my dotfiles! If you want to use qtile, you might wanna download n
 July 12:
 I decided to go back to AwesomeWM. So new awesome config. yayyyy
 
+July 12(11:10pm):
+ok I made some new changes and I promise its gonna be the last one. 
+
 
