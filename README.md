@@ -6,4 +6,6 @@ I decided to go back to AwesomeWM. So new awesome config. yayyyy
 July 12(11:10pm):
 ok I made some new changes and I promise its gonna be the last one. 
 
+July 15: 
+Added Rofi and Kitty config. Rofi config isnt mine but just a little motified from https://github.com/ericmurphyxyz/archrice
 
