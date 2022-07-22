@@ -9,3 +9,5 @@ ok I made some new changes and I promise its gonna be the last one.
 July 15: 
 Added Rofi and Kitty config. Rofi config isnt mine but just a little motified from https://github.com/ericmurphyxyz/archrice
 
+July 22:
+Added DWm 6.2. Reason why I use 6.2 because I see that there isnt alot of patches for 6.3
